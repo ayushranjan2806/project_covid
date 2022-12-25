@@ -1,0 +1,2 @@
+['2022-12-24 23:04:04.656988']:Total number of active cases in gaya is ('Gaya', 6)
+['2022-12-24 23:04:33.735261']:Total number of active cases in giridih is ('Giridih', 2)

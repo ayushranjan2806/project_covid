@@ -1,0 +1,1 @@
+['2022-11-29 10:41:50.984237']:Total number of active cases in gaya is ('Gaya', 6)
